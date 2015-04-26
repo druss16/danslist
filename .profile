@@ -1,0 +1,1 @@
+export PATH=/local/pgsql/bin:$PATH
