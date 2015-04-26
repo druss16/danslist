@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.pyc
 <<<<<<< HEAD
 *.egg
@@ -10,3 +11,14 @@ docs/_build
 *.egg-info
 dist
 >>>>>>> a01e3844d61f6aa53c3e574544723effa28e36d1
+=======
+/.tox/
+build
+dist
+*.pyc
+.DS_Store
+MANIFEST
+__pycache__
+/coverage/
+/.coverage
+>>>>>>> b6f096df3df2dd3b1a32b6c67a338443306e51d2
