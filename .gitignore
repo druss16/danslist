@@ -1,7 +1,12 @@
 *.pyc
+<<<<<<< HEAD
 *.egg
 *.egg-info
 .DS_Store
 docs/_build
 /build
 /dist
+=======
+*.egg-info
+dist
+>>>>>>> a01e3844d61f6aa53c3e574544723effa28e36d1
