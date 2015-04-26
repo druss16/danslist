@@ -1,7 +1,0 @@
-include README.rst
-<<<<<<< HEAD
-graft bootstrapform/templates
-=======
-recursive-include pinax_theme_bootstrap/templates *
-recursive-include pinax_theme_bootstrap/static *
->>>>>>> a01e3844d61f6aa53c3e574544723effa28e36d1
